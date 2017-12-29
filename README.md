@@ -54,4 +54,5 @@ Other resources for learning git and github:
 
 Some resources for python and jupyter notebooks:
 - [Jupyter Notebook Tips and Tricks](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/)
+- [Think Python by Allen B Downey](http://greenteapress.com/wp/think-python-2e/)
 
