@@ -52,4 +52,6 @@ Other resources for learning git and github:
 - [Github Guides](https://guides.github.com/)
 - [Syncing a forked local repo to the original remote repository from command line](https://help.github.com/articles/syncing-a-fork/)
 
+Some resources for python and jupyter notebooks:
+- [Jupyter Notebook Tips and Tricks](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/)
 
